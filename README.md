@@ -37,6 +37,23 @@ Concepts Used:
 - Functions
 - Loops
 - Conditional Statements
+Task 4: To-Do List
+A console-based task manager that allows users to add, view, mark, and remove tasks.
+
+Concepts Used:
+- Structures
+- Vectors
+- Functions
+- Menu-Driven Programming
+
+Task 5: Library Management System
+A system to manage books, search books, issue books, return books, and calculate fines.
+
+Concepts Used:
+- Structures
+- Vectors
+- Functions
+- File Management Concepts
 
 Folder Structure
 
@@ -46,16 +63,19 @@ Simple_Calculator/
 
 Tic_Tac_Toe/
 
+To-Do List/
+
+Library-Management-System/
+
 Technologies Used
 
 - C++
 - Object-Oriented Programming Concepts
 - Standard Template Library (STL)
 
+
 Author
 
 Preethe Vadhana
-
-Internship
 
 CodSoft C++ Programming Internship
